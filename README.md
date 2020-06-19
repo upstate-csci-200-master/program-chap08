@@ -8,3 +8,7 @@ Design and implement an application that reads an arbitrary number of integers t
 ```
 
 Name your application class Frequency
+
+Submit your source code to CodePost
+
+Submit your comments to JotForm
